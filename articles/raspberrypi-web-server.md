@@ -1,6 +1,6 @@
 ---
 title: "Raspberrypi Pi でWebサーバーを構築する"
-emoji: "🛡️"
+emoji: "🍓"
 type: "tech"
 topics: ["raspberrypi", "Webサーバー", "サーバー構築", "Nginx", "初心者向け"]
 published: false
