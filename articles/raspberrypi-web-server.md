@@ -1,8 +1,8 @@
 ---
-title: "Laravel セキュリティ対策 完全ガイド"
+title: "Raspberrypi Pi でWebサーバーを構築する"
 emoji: "🛡️"
 type: "tech"
-topics: ["Laravel", "セキュリティ", "PHP"]
+topics: ["raspberrypi", "Webサーバー", "サーバー構築", "Nginx", "初心者向け"]
 published: false
 slug: "raspberrypi-web-server"
 ---
