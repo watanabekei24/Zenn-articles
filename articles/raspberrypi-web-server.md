@@ -4,6 +4,7 @@ emoji: "🛡️"
 type: "tech"
 topics: ["Laravel", "セキュリティ", "PHP"]
 published: false
+slug: "raspberrypi-web-server"
 ---
 
 # はじめに
